@@ -29,13 +29,13 @@
 | 23 | [What is the point of the relationship between React Native and React?](#) |
 | 24 | [What are the similarities between React Native and React?](#) |
 | 25 | [Describe HOC.](#describe-hoc) |
-| 26 | [Define Native apps.](#) |
-| 27 | [What are Hybrid Apps?](#) |
+| 26 | [Define Native apps.](##describe-native-apps) |
+| 27 | [What are Hybrid Apps?](#what-are-hybrid-apps) |
 | 28 | [What are refs in React? When to use Refs?](#) |
 | 29 | [What does a react native packager do?](#) |
 | 30 | [What is NPM in React Native?](#) |
 | 31 | [What are “props” and “state”?](#) |
-| 32 | [What is Style?](#) |
+| 32 | [What is Style?](#what-is-style) |
 | 33 | [How To Handle Multiple Platforms?](#) |
 | 34 | [When would you use a class component over a functional component?](#) |
 | 35 | [How React Native handle different screen size?](#) |
