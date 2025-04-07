@@ -28,7 +28,7 @@
 | 22 | [What is InteractionManager and what is its importance?](#what-is-interactionmanager-and-what-is-its-importance) |
 | 23 | [What is the point of the relationship between React Native and React?](#) |
 | 24 | [What are the similarities between React Native and React?](#) |
-| 25 | [Describe HOC.](#) |
+| 25 | [Describe HOC.](#describe-hoc) |
 | 26 | [Define Native apps.](#) |
 | 27 | [What are Hybrid Apps?](#) |
 | 28 | [What are refs in React? When to use Refs?](#) |
